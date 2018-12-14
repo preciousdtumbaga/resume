@@ -1,0 +1,14 @@
+body{
+	background-image:url(../images/bg.jpeg);
+	color:tan;
+
+}
+.collapsible-header:hover {
+	color: mistyrose;
+}
+
+
+
+h5{
+	size: 12;
+}
